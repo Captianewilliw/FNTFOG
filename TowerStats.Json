@@ -15622,6 +15622,102 @@
             }
         ]
     },
+    "FNTD 2 Endo": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://83771317049891",
+        "Rarity": "Secret",
+        "PlacePrice": 5000,
+        "Max": 1,
+        "Passive": {"Name": "Distortion", "Description": "Passively boosts all unit damage by 30%. Auto executes enemies at 20% (8.5% to Bosses/Imps) and attacks apply 10% Wither."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 5000,
+                "Range": 25,
+                "Damage": 2500,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 10000,
+                "Range": 30,
+                "Damage": 3000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 15000,
+                "Range": 45,
+                "Damage": 5000,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+    "FNTD 2 Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://130476435305118",
+        "Rarity": "Nightmare",
+        "PlacePrice": 9000,
+        "Max": 1,
+        "Passive": {"Name": "Distortion", "Description": "Passively boosts all unit damage by 30%. Auto executes enemies at 20% (8.5% to Bosses/Imps) and attacks apply 10% Wither."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Wither": 1.10,
+                "ShinyWither": 1.10,
+                "WitherTime": 1,
+                "DamageBoost": 1.30
+            },
+            {
+                "Price": 10000,
+                "Range": 25,
+                "Damage": 3000,
+                "Cooldown": 0.25,
+                "Wither": 1.10,
+                "ShinyWither": 1.10,
+                "WitherTime": 1,
+                "DamageBoost": 1.30
+            },
+            {
+                "Price": 15000,
+                "Range": 30,
+                "Damage": 6000,
+                "Cooldown": 0.25,
+                "Wither": 1.10,
+                "ShinyWither": 1.10,
+                "WitherTime": 1,
+                "DamageBoost": 1.30
+            },
+            {
+                "Price": 30000,
+                "Range": 45,
+                "Damage": 10000,
+                "Cooldown": 0.25,
+                "Wither": 1.10,
+                "ShinyWither": 1.10,
+                "WitherTime": 1,
+                "DamageBoost": 1.30
+            }
+        ]
+    },
     "Glitchtrap": {
         "Type": "Pierce",
         "Image": "rbxassetid://101957224781287",
