@@ -1,7 +1,7 @@
 {
     "Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://16620053009",
+        "Image": "rbxassetid://89925249660312",
         "Rarity": "Uncommon",
         "PlacePrice": 300,
         "Max": 8,
@@ -40,7 +40,7 @@
     },
     "Chica": {
         "Type": "Explosion",
-        "Image": "rbxassetid://16620303027",
+        "Image": "rbxassetid://108231225322877",
         "Rarity": "Uncommon",
         "PlacePrice": 500,
         "Max": 3,
@@ -78,7 +78,7 @@
     },
     "Foxy": {
         "Type": "Melee",
-        "Image": "rbxassetid://16620218689",
+        "Image": "rbxassetid://97554562118129",
         "Rarity": "Rare",
         "PlacePrice": 600,
         "Offset": 0.65,
