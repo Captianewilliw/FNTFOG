@@ -79,7 +79,7 @@
     "Foxy": {
         "Type": "Melee",
         "Image": "rbxassetid://97554562118129",
-        "Rarity": "Rare",
+        "Rarity": "Uncommon",
         "PlacePrice": 600,
         "Offset": 0.65,
         "Max": 5,
@@ -118,7 +118,7 @@
     "Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://132275351050605",
-        "Rarity": "Mythic",
+        "Rarity": "Uncommon",
         "PlacePrice": 7500,
         "Max": 3,
         "hitboxOffset": {
@@ -157,7 +157,7 @@
         "Withered Chica": {
             "Type": "Single",
             "Image": "rbxassetid://72832854482121",
-            "Rarity": "Rare",
+            "Rarity": "Epic",
             "PlacePrice": 800,
             "Max": 2,
             "hitboxOffset": {
@@ -195,7 +195,7 @@
         "Withered Foxy": {
             "Type": "Dual",
             "Image": "rbxassetid://122253960149265",
-            "Rarity": "Epic",
+            "Rarity": "Secret",
             "PlacePrice": 1200,
             "Max": 3,
             "hitboxOffset": {
@@ -234,7 +234,7 @@
     "Withered Freddy": {
         "Type": "Continuous",
         "Image": "rbxassetid://95691267343008",
-        "Rarity": "Mythic",
+        "Rarity": "Secret",
         "PlacePrice": 5000,
         "Max": 3,
         "hitboxOffset": {
@@ -348,8 +348,8 @@
     },
  "Toy Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://123660680161014",
-        "Rarity": "Rare",
+        "Image": "rbxassetid://89853945292596",
+        "Rarity": "Epic",
         "PlacePrice": 800,
         "Max": 3,
         "hitboxOffset": {
@@ -387,7 +387,7 @@
     },
     "Toy Bonnie": {
         "Type": "Dual",
-        "Image": "rbxassetid://98354567514612",
+        "Image": "rbxassetid://78303154254743",
         "Rarity": "Epic",
         "PlacePrice": 1000,
         "Max": 3,
@@ -425,8 +425,8 @@
     },
     "Toy Chica": {
         "Type": "Explosion",
-        "Image": "rbxassetid://132964161956838",
-        "Rarity": "Epic",
+        "Image": "rbxassetid://108141752722529",
+        "Rarity": "Mythic",
         "PlacePrice": 1250,
         "Max": 2,
         "hitboxOffset": {
@@ -464,7 +464,7 @@
     },
     "Mangle": {
         "Type": "Explosion",
-        "Image": "rbxassetid://112927023413469",
+        "Image": "rbxassetid://80098616982424",
         "Rarity": "Secret",
         "PlacePrice": 12500,
         "Max": 2,
@@ -503,7 +503,7 @@
     },
     "Shadow Freddy": {
         "Type": "AOE",
-        "Image": "rbxassetid://78335841341739",
+        "Image": "rbxassetid://82484270991649",
         "Rarity": "Secret",
         "PlacePrice": 15000,
         "Max": 2,
@@ -541,7 +541,7 @@
     },
   "Balloon Boy": {
         "Type": "Explosion",
-        "Image": "rbxassetid://16781077553",
+        "Image": "rbxassetid://105960297781123",
         "Rarity": "Mythic",
         "PlacePrice": 5000,
         "Max": 3,
@@ -580,7 +580,7 @@
     },
     "Golden Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://17629034232",
+        "Image": "rbxassetid://135226651120641",
         "Rarity": "Mythic",
         "PlacePrice": 4000,
         "Max": 2,
@@ -619,7 +619,7 @@
     },
     "Puppet": {
         "Type": "Pierce",
-        "Image": "rbxassetid://17802016570",
+        "Image": "rbxassetid://99375015468095",
         "Rarity": "Secret",
         "PlacePrice": 10000,
         "Max": 2,
@@ -656,9 +656,111 @@
             }
         ]
     },
+	"scarecrow Freddy": {
+        "Type": "Single Wither",
+        "Image": "rbxassetid://79818209251769",
+        "Rarity": "Nightmare",
+        "PlacePrice": 4000,
+        "Max": 4,
+        "Passive": {"Name": "Vengeful", "Description": "Targetted enemies take +35% more damage for 1 second."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 600,
+                "Cooldown": 0.25,
+                "Wither": 1.35,
+                "ShinyWither": 1.35,
+                "WitherTime": 1
+            },
+            {
+                "Price": 6000,
+                "Range": 20,
+                "Damage": 700,
+                "Cooldown": 0.25,
+                "Wither": 1.35,
+                "ShinyWither": 1.35,
+                "WitherTime": 1
+            },
+            {
+                "Price": 8000,
+                "Range": 22,
+                "Damage": 820,
+                "Cooldown": 0.25,
+                "Wither": 1.35,
+                "ShinyWither": 1.35,
+                "WitherTime": 1
+            },
+            {
+                "Price": 10000,
+                "Range": 25,
+                "Damage": 1000,
+                "Cooldown": 0.25,
+                "Wither": 1.35,
+                "ShinyWither": 1.35,
+                "WitherTime": 1
+            }
+        ]
+    },
+	"slasher Bonnie": {
+        "Type": "Single Wither",
+        "Image": "rbxassetid://76340400911183",
+        "Rarity": "Nightmare",
+        "PlacePrice": 4000,
+        "Max": 4,
+        "Passive": {"Name": "Vengeful", "Description": "Targetted enemies take +35% more damage for 1 second."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 600,
+                "Cooldown": 0.25,
+                "Wither": 1.35,
+                "ShinyWither": 1.35,
+                "WitherTime": 1
+            },
+            {
+                "Price": 6000,
+                "Range": 20,
+                "Damage": 700,
+                "Cooldown": 0.25,
+                "Wither": 1.35,
+                "ShinyWither": 1.35,
+                "WitherTime": 1
+            },
+            {
+                "Price": 8000,
+                "Range": 22,
+                "Damage": 820,
+                "Cooldown": 0.25,
+                "Wither": 1.35,
+                "ShinyWither": 1.35,
+                "WitherTime": 1
+            },
+            {
+                "Price": 10000,
+                "Range": 25,
+                "Damage": 1000,
+                "Cooldown": 0.25,
+                "Wither": 1.35,
+                "ShinyWither": 1.35,
+                "WitherTime": 1
+            }
+        ]
+    },
     "Withered Golden Freddy": {
         "Type": "Single Wither",
-        "Image": "rbxassetid://118187954741742",
+        "Image": "rbxassetid://121140117517517",
         "Rarity": "Nightmare",
         "PlacePrice": 4000,
         "Max": 4,
@@ -709,8 +811,8 @@
     },
     "Endo": {
         "Type": "Support",
-        "Image": "rbxassetid://17851638702",
-        "Rarity": "Secret",
+        "Image": "rbxassetid://75743185572224",
+        "Rarity": "Mythic",
         "PlacePrice": 1000,
         "NoEnemyAttack": true,
         "Max": 2,
@@ -1685,7 +1787,7 @@
     "FazCade": {
         "Type": "Farm",
         "Image": "rbxassetid://104418067731043",
-        "Rarity": "Epic",
+        "Rarity": "Mythic",
         "PlacePrice": 1000,
         "Max": 3,
         "hitboxOffset": {
@@ -8789,7 +8891,7 @@
     "Reindeer Withered Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://128903190044752",
-        "Rarity": "Secret",
+        "Rarity": "Mythic",
          "PlacePrice": 14500,
         "Offset": 0,
         "Max": 3,
@@ -12432,8 +12534,8 @@
     },
     "Paperpals": {
         "Type": "Cone AOE + Slow",
-        "Image": "rbxassetid://88743014752394",
-        "Rarity": "Nightmare",
+        "Image": "rbxassetid://72400983395431",
+        "Rarity": "Rare",
         "PlacePrice": 25000,
         "Offset": 0,
         "Max": 2,
@@ -14050,7 +14152,7 @@
     "JJ": {
         "Type": "Explosion",
         "Image": "rbxassetid://83168736782973",
-        "Rarity": "Secret",
+        "Rarity": "Rare",
         "PlacePrice": 15000,
         "Offset": 0,
         "Max": 2,
