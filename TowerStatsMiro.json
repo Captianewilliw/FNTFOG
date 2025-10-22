@@ -659,7 +659,7 @@
 	"scarecrow Freddy": {
         "Type": "Single Wither",
         "Image": "rbxassetid://79818209251769",
-        "Rarity": "Nightmare",
+        "Rarity": "Halloween",
         "PlacePrice": 4000,
         "Max": 4,
         "Passive": {"Name": "Vengeful", "Description": "Targetted enemies take +35% more damage for 1 second."},
@@ -710,7 +710,7 @@
 	"slasher Bonnie": {
         "Type": "Single Wither",
         "Image": "rbxassetid://76340400911183",
-        "Rarity": "Nightmare",
+        "Rarity": "Halloween",
         "PlacePrice": 4000,
         "Max": 4,
         "Passive": {"Name": "Vengeful", "Description": "Targetted enemies take +35% more damage for 1 second."},
