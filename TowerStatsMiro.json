@@ -38,6 +38,46 @@
             }
         ]
     },
+	"Party Glock Freddy": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://120316005972938",
+        "Rarity": "Secret",
+        "PlacePrice": 750,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 150,
+                "Cooldown": 3.6
+            },
+            {
+                "Price": 1000,
+                "Range": 22,
+                "Damage": 170,
+                "Cooldown": 3.6
+            },
+            {
+        		"Range" = 24,
+    			"Damage" = 190,
+        		"Cooldown" = 3.6,
+        		"Price" = 1500
+            },
+            {
+        		"Range" = 27,
+        		"Damage" = 260,
+        		"Cooldown" = 3.2,
+        		"Speed" = 1,
+        		"Price" = 4000
+            }
+        ]
+    },
     "Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://108231225322877",
