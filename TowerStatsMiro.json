@@ -620,7 +620,7 @@
     "Pet Golden Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://91720968914790",
-        "Rarity": "Mythic",
+        "Rarity": "Secret",
         "PlacePrice": 4000,
         "Max": 2,
         "Offset": 0,
@@ -659,7 +659,7 @@
     "Pet Puppet": {
         "Type": "Pierce",
         "Image": "rbxassetid://108805881025927",
-        "Rarity": "Secret",
+        "Rarity": "Mythic",
         "PlacePrice": 10000,
         "Max": 2,
         "hitboxOffset": {
