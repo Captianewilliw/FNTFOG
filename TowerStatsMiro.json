@@ -64,17 +64,16 @@
                 "Cooldown": 3.6
             },
             {
-        		"Range" = 24,
-    			"Damage" = 190,
-        		"Cooldown" = 3.6,
-        		"Price" = 1500
+                "Price": 2500,
+                "Range": 24,
+                "Damage": 200,
+                "Cooldown": 3.2
             },
             {
-        		"Range" = 27,
-        		"Damage" = 260,
-        		"Cooldown" = 3.2,
-        		"Speed" = 1,
-        		"Price" = 4000
+                "Price": 4000,
+                "Range": 27,
+                "Damage": 260,
+                "Cooldown": 3.2
             }
         ]
     },
