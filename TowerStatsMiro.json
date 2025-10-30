@@ -578,9 +578,48 @@
             }
         ]
     },
-    "Golden Freddy": {
+	"Pet Mangle": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://86996690011504",
+        "Rarity": "Epic",
+        "PlacePrice": 500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.2,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 80,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1600,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2000,
+                "Range": 18,
+                "Damage": 120,
+                "Cooldown": 1
+            },
+            {
+                "Price": 3000,
+                "Range": 20,
+                "Damage": 150,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+    "Pet Golden Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://135226651120641",
+        "Image": "rbxassetid://91720968914790",
         "Rarity": "Mythic",
         "PlacePrice": 4000,
         "Max": 2,
@@ -617,9 +656,9 @@
             }
         ]
     },
-    "Puppet": {
+    "Pet Puppet": {
         "Type": "Pierce",
-        "Image": "rbxassetid://99375015468095",
+        "Image": "rbxassetid://108805881025927",
         "Rarity": "Secret",
         "PlacePrice": 10000,
         "Max": 2,
