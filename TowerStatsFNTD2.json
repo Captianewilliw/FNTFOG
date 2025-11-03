@@ -954,5 +954,44 @@
                 "Cooldown": 3.2
             }
         ]
+    },
+	"Party Packer Cupcake": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://132749102809989",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 200,
+                "Cooldown": 3.6
+            },
+            {
+                "Price": 1000,
+                "Range": 22,
+                "Damage": 250,
+                "Cooldown": 3.6
+            },
+            {
+                "Price": 2500,
+                "Range": 24,
+                "Damage": 400,
+                "Cooldown": 3.2
+            },
+            {
+                "Price": 4000,
+                "Range": 27,
+                "Damage": 500,
+                "Cooldown": 1.2
+            }
+        ]
     }
 }
