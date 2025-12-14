@@ -2596,6 +2596,81 @@
             }
         ]
     },
+    "Conductor Toy Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://80007874366933",
+        "Rarity": "Secret",
+        "PlacePrice": 550,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15.5,
+                "Damage": 110,
+                "Cooldown": 7,
+                "SummonTime": 10,
+                "Health": 20,
+                "WalkSpeed": 8,
+                "Amount": 1,
+                "Unit": "Fnaf Express",
+                "Offset": -2,
+                "SummonRange": 14,
+                "SummonDamage": 132,
+                "SummonCooldown": 0.25
+            },
+            {
+                "Price": 400,
+                "Range": 16.5,
+                "Damage": 120,
+                "Cooldown": 7,
+                "SummonTime": 10,
+                "Health": 30,
+                "WalkSpeed": 8,
+                "Amount": 1,
+                "Unit": "Fnaf Express",
+                "Offset": -2,
+                "SummonRange": 16,
+                "SummonDamage": 144,
+                "SummonCooldown": 0.25
+            },
+            {
+                "Price": 450,
+                "Range": 17,
+                "Damage": 130,
+                "Cooldown": 7,
+                "SummonTime": 10,
+                "Health": 50,
+                "WalkSpeed": 9,
+                "Amount": 1,
+                "Unit": "Fnaf Express",
+                "Offset": -2,
+                "SummonRange": 24,
+                "SummonDamage": 156,
+                "SummonCooldown": 0.25
+            },
+            {
+                "Price": 500,
+                "Range": 17.5,
+                "Damage": 140,
+                "Cooldown": 7,
+                "SummonTime": 10,
+                "Health": 75,
+                "WalkSpeed": 10,
+                "Amount": 1,
+                "Unit": "Fnaf Express",
+                "Offset": -2,
+                "SummonRange": 30,
+                "SummonDamage": 168,
+                "SummonCooldown": 0.25
+            }
+        ]
+    },
     "Movie Director Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://73569449681033",
