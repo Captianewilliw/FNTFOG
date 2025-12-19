@@ -154,7 +154,7 @@
             }
         ]
     },
-        "Withered Chica": {
+    "Withered Chica": {
             "Type": "Single",
             "Image": "rbxassetid://16632209265",
             "Rarity": "Rare",
@@ -231,7 +231,7 @@
                 }
             ]
         },
-    "Withered Freddy": {
+        "Withered Freddy": {
         "Type": "Continuous",
         "Image": "rbxassetid://16632239120",
         "Rarity": "Mythic",
@@ -346,7 +346,7 @@
             }
         ]
     },
- "Toy Freddy": {
+     "Toy Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://16781095520",
         "Rarity": "Rare",
@@ -385,7 +385,7 @@
             }
         ]
     },
-    "Toy Bonnie": {
+        "Toy Bonnie": {
         "Type": "Dual",
         "Image": "rbxassetid://16780983603",
         "Rarity": "Epic",
@@ -659,7 +659,7 @@
     "Withered Golden Freddy": {
         "Type": "Single Wither",
         "Image": "rbxassetid://16781122207",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 4000,
         "Max": 4,
         "Passive": {"Name": "Vengeful", "Description": "Targetted enemies take +35% more damage for 1 second."},
