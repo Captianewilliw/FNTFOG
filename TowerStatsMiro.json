@@ -76,58 +76,6 @@
             }
         ]
     },
-        "Pirate Withered Foxy": {
-        "Type": "Single",
-        "Image": "rbxassetid://17851205149",
-        "Rarity": "Secret",
-        "PlacePrice": 500,
-        "Offset": 0.55,
-        "Max": 3,
-        "Passive": {"Name": "Pirate's Curse", "Description": "Targeted enemies take 25% more damage for 1 second"},
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 400,
-                "Cooldown": 0.5,
-                "Wither": 1.25,
-                "ShinyWither": 1.25,
-                "WitherTime": 1
-            },
-            {
-                "Price": 800,
-                "Range": 23,
-                "Damage": 450,
-                "Cooldown": 0.4,
-                "Wither": 1.25,
-                "ShinyWither": 1.25,
-                "WitherTime": 1
-            },
-            {
-                "Price": 1400,
-                "Range": 25,
-                "Damage": 500,
-                "Cooldown": 0.3,
-                "Wither": 1.25,
-                "ShinyWither": 1.25,
-                "WitherTime": 1
-            },
-            {
-                "Price": 2000,
-                "Range": 27,
-                "Damage": 550,
-                "Cooldown": 0.3,
-                "Wither": 1.25,
-                "ShinyWither": 1.25,
-                "WitherTime": 1
-            }
-        ]
-    },
     "Foxy": {
         "Type": "Melee",
         "Image": "rbxassetid://16620218689",
@@ -962,45 +910,6 @@
             }
         ]
     },
-    "Endo 02": {
-        "Type": "Single",
-        "Image": "rbxassetid://17690383931",
-        "Rarity": "Secret",
-        "PlacePrice": 600,
-        "Max": 4,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": -0.5,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 30,
-                "Cooldown": 0.3
-            },
-            {
-                "Price": 1200,
-                "Range": 18,
-                "Damage": 35,
-                "Cooldown": 0.3
-            },
-            {
-                "Price": 1600,
-                "Range": 22,
-                "Damage": 45,
-                "Cooldown": 0.3
-            },
-            {
-                "Price": 2200,
-                "Range": 25,
-                "Damage": 60,
-                "Cooldown": 0.3
-            }
-        ]
-    },
     "Baker Toy Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://18161347460",
@@ -1036,6 +945,58 @@
                 "Range": 25,
                 "Damage": 75,
                 "Cooldown": 0.8
+            }
+        ]
+    },
+    "Pirate Withered Foxy": {
+        "Type": "Single",
+        "Image": "rbxassetid://17851205149",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Offset": 0.55,
+        "Max": 3,
+        "Passive": {"Name": "Pirate's Curse", "Description": "Targeted enemies take 25% more damage for 1 second"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 400,
+                "Cooldown": 0.5,
+                "Wither": 1.25,
+                "ShinyWither": 1.25,
+                "WitherTime": 1
+            },
+            {
+                "Price": 800,
+                "Range": 23,
+                "Damage": 450,
+                "Cooldown": 0.4,
+                "Wither": 1.25,
+                "ShinyWither": 1.25,
+                "WitherTime": 1
+            },
+            {
+                "Price": 1400,
+                "Range": 25,
+                "Damage": 500,
+                "Cooldown": 0.3,
+                "Wither": 1.25,
+                "ShinyWither": 1.25,
+                "WitherTime": 1
+            },
+            {
+                "Price": 2000,
+                "Range": 27,
+                "Damage": 550,
+                "Cooldown": 0.3,
+                "Wither": 1.25,
+                "ShinyWither": 1.25,
+                "WitherTime": 1
             }
         ]
     },
@@ -1091,3 +1052,4 @@
         ]
     }
 }
+
