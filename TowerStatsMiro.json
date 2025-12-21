@@ -81,9 +81,7 @@
         "Image": "rbxassetid://17851205149",
         "Rarity": "Secret",
         "PlacePrice": 500,
-        "Offset": 0.55,
         "Max": 3,
-        "Passive": {"Name": "Pirate's Curse", "Description": "Targeted enemies take 25% more damage for 1 second"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
